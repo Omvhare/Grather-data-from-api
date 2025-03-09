@@ -1,6 +1,5 @@
 # Grather-data-from-api
 
-in this minior project we are learn to how to grather data from API using Api Key and import in jupyter
 📌 Project Overview
 This project gathers data from The Movie Database (TMDB) API, specifically top-rated movies, using an API key. The fetched data is retrieved in JSON format and converted into a CSV file for further analysis.
 
